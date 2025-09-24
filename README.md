@@ -17,3 +17,6 @@ This repository contains systematic trading strategy backtests developed by **YC
 
 ### About YCapital
 YCapital is building a systematic, research-driven backtesting framework for Indian markets.  
+
+### Example Result
+![SMA Crossover Results](results/sma_crossover.png)
